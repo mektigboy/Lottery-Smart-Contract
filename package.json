@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mektigboy/Lottery-Smart-Contract/issues"
   },
-  "homepage": "https://github.com/mektigboy/Lottery-Smart-Contract#readme"
+  "homepage": "https://github.com/mektigboy/Lottery-Smart-Contract#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
