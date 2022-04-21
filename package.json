@@ -1,0 +1,19 @@
+{
+  "name": "lottery-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mektigboy/Lottery-Smart-Contract.git"
+  },
+  "author": "mektigboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mektigboy/Lottery-Smart-Contract/issues"
+  },
+  "homepage": "https://github.com/mektigboy/Lottery-Smart-Contract#readme"
+}
