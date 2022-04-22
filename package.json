@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mektigboy/Lottery-Smart-Contract#readme",
   "dependencies": {
-    "@truffle/hdwallet-provider": "^2.0.6",
+    "@truffle/hdwallet-provider": "^2.0.7",
     "ganache-cli": "^6.12.2",
     "mocha": "^9.2.2",
     "solc": "^0.4.26",
